@@ -1,0 +1,39 @@
+body{
+background-image: linear-gradient(#4CC9F0,#4895EF,#4361EE,#3F37C9,#3A0CA3,#480CA8,#560BAD,#7209B7,#B5179E,#F72585);
+font-family: 'DynaPuff', cursive;
+font-size:small;
+
+
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: larger;
+    color: white;
+}
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color:black;
+    background-color:white;
+    border: 4px dashed black;
+
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 25px;
+    color:#AF0171;
+}
+canvas{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 7px 7px 7px white;
+}
+p{
+    color:white;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+
